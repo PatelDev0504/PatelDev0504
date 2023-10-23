@@ -1,11 +1,11 @@
 body 
 {
-  background: [garnet];
-  font-family: Arial;
+  background: [white];
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 
 {
-  color: [black];
+  color: [red];
   text-align: center;
 }
 assign 
@@ -13,7 +13,7 @@ assign
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: [garnet];
+  background: [red];
 }
 .assign img 
 {
