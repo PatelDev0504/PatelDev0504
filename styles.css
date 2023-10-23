@@ -1,11 +1,11 @@
 body 
 {
-  background: [blue];
+  background-color: blue;
   font-family: Arial;
 }
 h1 
 {
-  color: [black];
+  color: black;
   text-align: center;
 }
 .assign 
@@ -13,7 +13,7 @@ h1
   display: flex;
   padding: 10px;
   margin: 10px;
-  background: [red];
+  background-color: red;
 }
 .assign img 
 {
